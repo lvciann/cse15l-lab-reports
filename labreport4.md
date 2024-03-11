@@ -34,7 +34,7 @@
    I typed `<git add> + <L> + <tab> + <.j> + <enter>`, which produced `git add ListExamples.java` on the command line. I don't think I can say how much I love the `<tab>` button, it makes everything so much easier.
    <img width="413" alt="Screenshot 2024-03-11 at 3 59 37 PM" src="https://github.com/lvciann/cse15l-lab-reports/assets/105315522/a0d69685-49a0-48fa-841b-794e1cf1a422">
 
-   On the next line, I then typed `<git commit> + <-m> + <">` with the message "edited ListExamples.java". After I pressed the second `<">` to close my message, I pressed `<enter>`. On my first go with this lab, I had "edited files," but upon reflection, it would be best to be more specific so I chose to change it.
+   On the next line, I then typed `<git commit> + <-> + <m> + <"> + [my message] + <">` with the message "edited ListExamples.java". After I pressed the second `<">` to close my message, I pressed `<enter>`. On my first go with this lab, I had "edited files," but upon reflection, it would be best to be more specific so I chose to change it.
 
    <img width="520" alt="Screenshot 2024-03-11 at 4 07 51 PM" src="https://github.com/lvciann/cse15l-lab-reports/assets/105315522/be6fe847-6e6c-4197-ac5b-3a0b32fe64f1">
 
